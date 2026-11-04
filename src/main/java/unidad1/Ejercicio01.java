@@ -10,6 +10,7 @@ public class Ejercicio01 {
 		int e = 33;
 		int f;
 		int g = (f = ((a + b) * e)) / (d % c);
+		System.out.println(g);
 	}
 
 }
